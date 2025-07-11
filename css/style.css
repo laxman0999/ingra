@@ -30,33 +30,33 @@
 }
 .btn-primary {
     color: #fff;
-    background-color: #8d0000 !important;
-    border-color: #8d0000;
+    background-color: #011e50 !important;
+    border-color: #011e50;
 }
 .bg-primary {
-    background-color: #8d0000 !important;
+    background-color: #011e50 !important;
 }
 .service-item:hover {
-    background-color: #8d0000 !important;
+    background-color: #011e50 !important;
 }
 .text-primary,
 .service-item a.btn  {
-    color: #8d0000 !important;
+    color: #011e50 !important;
 }
 .btn-outline-primary:hover {
     color: #fff;
-    background-color: #8d0000 !important;
-    border-color: #8d0000 !important;
+    background-color: #011e50 !important;
+    border-color: #011e50 !important;
 }
 .btn-outline-primary {
-    color: #8d0000;
-    border-color: #8d0000;
+    color: #011e50;
+    border-color: #011e50;
 }
 .service-item .service-icon {
-   color: #8d0000 !important;  
+   color: #011e50 !important;  
 }
 .team-item:hover {
-    border-color:  #8d0000 !important;  
+    border-color:  #011e50 !important;  
 }
 /*** Heading ***/
 h1,
@@ -354,7 +354,9 @@ h6,
         text-align: left !important;
     }
 }
-
+.bg-dark {
+    background-color: #011e50 !important;
+}
 /*** Case Study ***/
 .case-item img {
     transition: .5s;
